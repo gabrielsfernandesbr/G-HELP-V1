@@ -1,0 +1,4 @@
+python-whois
+ipaddress
+phonenumbers
+socket
